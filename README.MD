@@ -1,7 +1,7 @@
 ## install
 
 ```bash
-gh repo clone aivick/xxx
+gh repo clone git@github.com:rtr-x8/simple-jupyter-231225.git
 cp .env.example .env
 docker compose up -d --build
 ```
